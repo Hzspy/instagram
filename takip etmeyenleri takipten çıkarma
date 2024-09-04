@@ -4,8 +4,8 @@
 
 from InstagramAPI import InstagramAPI
 
-USERNAME = input("Kullanıcı Adı: ")
-PASS = input("Şifre: ")
+USERNAME = input("emre.k5519")
+PASS = input("527yunu158emre5519")
 
 
 def getTotalFollowers(api, user_id):
